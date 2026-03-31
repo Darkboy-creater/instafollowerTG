@@ -4,7 +4,7 @@
 
 
 
-termux-setup-storage -y
+termux-setup-storage 
 
 
 apt update 
